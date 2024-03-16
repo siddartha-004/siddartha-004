@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN Stack development,DSA**
 
-- 📫 How to reach me **siddarthareddy.d02@gmail.com**
+- 📫 How to reach me **devireddy.siddarthareddy2004.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
