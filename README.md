@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddartha-004&label=Profile%20views&color=0e75b6&style=flat" alt="siddartha-004" /> </p>
 
-- 🔭 I’m currently working on **Machine learning and its integrations**
+- 🔭 I’m currently working on **Deep learning and its integrations**
 
-- 🌱 I’m currently learning **Flask,ML,NLP**
+- 🌱 I’m currently learning **DL**
 
 - 💬 Ask me about **MERN Stack development,DSA**
 
